@@ -29,7 +29,7 @@ Proyecto colaborativo para la gestión de clientes, servicios y reservas. Enfoqu
   * Validaciones de datos (cédula, correo) con lanzamiento de excepciones.
 
 ### Módulo 3: Jerarquía de Servicios
-* **Encargado:** *(Nombre - @usuario_github)*
+* **Encargado:** *(Andres David Paz Botina - @andresdavidp67)*
 * **Entregables:**
   * Clase abstracta `Servicio` (métodos abstractos: `calcular_costo()`, `obtener_descripcion()`).
   * Clases derivadas: `ReservaSala`, `AlquilerEquipo` y `AsesoriaEspecializada`.
